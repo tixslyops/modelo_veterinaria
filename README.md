@@ -40,3 +40,7 @@ O projeto foi desenvolvido seguindo as etapas de:
 ## Objetivo
 
 O objetivo do projeto é representar de maneira organizada as informações da clínica, facilitando o armazenamento e o relacionamento dos dados de clientes, animais, veterinários e consultas.
+
+
+
+## Letícia Carvalho dos Reis
